@@ -1,0 +1,96 @@
+.modal-footer {
+    text-align: center;
+}
+img.image {
+    border-radius: 10px;
+    position: absolute;
+}
+#body_director{
+	    margin: 15px 30px;
+}
+a.img-indexa {
+    float: right;
+    margin-right: 125px;
+    margin-top: -35px;
+}
+body, #body_director{
+	background:	#6495ED;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 95%;
+    border-radius: 10px;
+}
+td,th {
+    border: 1px solid #000;
+    text-align: center !important;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+h2{
+	color: #fff !important;
+	text-align: center;
+}
+.modal-header, h4, .close {
+	  background-color: #5cb85c;
+	  color:white !important;
+	  text-align: center;
+	  font-size: 30px;
+}
+.modal-footer {
+  	background-color: #f9f9f9;
+}
+.log .container {
+    text-align: center;
+}
+.button {
+    border: 2px solid #fff;
+    margin: 55px 400px;
+    padding: 30px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    background: white;
+    font-size: 20px;
+}
+.button:hover{
+	background: #adadad;
+	border: 2px solid #adadad;
+}
+#comment3 p, #comment2 p, #comment2 div, #comment1 p, #comment1 div, #comment p {
+    text-align: center;
+    margin: 10px;
+}
+#comment3, #comment2, #comment1, #comment, #comment4 {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background: #fff;
+}
+.log #comment3 span {
+    margin-left: 585px;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+#body_director form {
+    text-align: center;
+}
+#body_director .hide_page {
+    border: 2px solid #fff;
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+}
+.div_erasee {
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background: #fff;
+}
