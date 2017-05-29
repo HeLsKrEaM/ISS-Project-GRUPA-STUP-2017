@@ -1,7 +1,7 @@
 # ISS-Project-GRUPA-STUP-2017 (ECHIPA FaraNume2)
 ISS-Project GRUPA STUP 2017
 
-Grupa 331/1 
+Grupa 331/1 Matematica-Informatica
 
 Arman Silvia    
 Avasicei Alexandra   
